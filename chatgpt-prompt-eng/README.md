@@ -8,4 +8,7 @@ ref: https://learn.deeplearning.ai/chatgpt-prompt-eng
 The sample is using Jupyter notebook.
 This uses the openai library.
 
+## Prompting Principles
+Principle 1: Write clear and specific instructions
+Principle 2: Give the model time to “think”
 
