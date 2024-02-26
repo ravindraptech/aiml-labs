@@ -1,0 +1,25 @@
+Some of my more popular hands-on exercises (1000+ Likes)
+
+[1] Transformer: 
+https://www.linkedin.com/feed/update/urn:li:share:7151207902123298816/
+
+[2] Self Attention: 
+https://www.linkedin.com/feed/update/urn:li:share:7153234214803357697/
+
+[4] Backpropogation:
+https://www.linkedin.com/feed/update/urn:li:share:7150568795470708737/
+
+[4] GAN:
+https://www.linkedin.com/feed/update/urn:li:share:7152664086806171649/
+
+[5] LLM: 
+https://www.linkedin.com/feed/update/urn:li:share:7149521168025174017/
+
+Basic hands-on exercises about DL
+
+[1] Single Neuron: https://lnkd.in/gKqEGPgf
+[2] Four Neurons: https://lnkd.in/gc-qwJ6X
+[3] Hidden Layer: https://lnkd.in/gwDXEGsM
+[4] Three Inputs: https://lnkd.in/eMjpAZta
+[5] Multi Layer Perceptron (MLP): https://lnkd.in/gjJRxPsv
+
