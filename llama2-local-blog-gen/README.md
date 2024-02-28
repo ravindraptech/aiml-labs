@@ -1,4 +1,5 @@
-# Blog generator application - using LLM (llama2 setup on local machine)
+# Blog generator application - using LLM 
+## llama2 setup on local machine
 
 Steps:
 1) create venv
