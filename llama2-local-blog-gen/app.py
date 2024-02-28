@@ -23,7 +23,8 @@ def getLLamaresponse(input_text,no_words,blog_style):
                           template=template)
     
     ## Generate the ressponse from the LLama 2 model
-    response=llm(prompt.format(blog_style=blog_style,input_text=input_text,no_words=no_words))
+    ## response=llm(prompt.format(blog_style=blog_style,input_text=input_text,no_words=no_words))
+    response="OK"
     print(response)
     return response
 
