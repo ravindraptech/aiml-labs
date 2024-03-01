@@ -11,3 +11,8 @@ source .venv/bin/activate
 3) Upgrade pip:
 python -m pip install --upgrade pip
 
+5) install requirements.txt:
+python -m pip install -r requirements.txt
+
+6) run streamlit program:
+streamlit run app.py
