@@ -3,13 +3,9 @@
 
 Steps:
 1) create venv
-
+python -m venv .venv
 
 2) activate venv
+source .venv/bin/activate 
 
 
-3) install requirements
-
-
-4) run program: 
-streamlit run app.py
