@@ -11,4 +11,5 @@ Note: Make sure you have model access granted for the region you select. (Bedroc
 4. Amazon Bedrock > Examples > Llama2 Chat 70B - Chain of thoughts
 5. copy API request from example and create new file test.json and paste inside it
 6. Inside VS Code project dir create new file: llama2.py (imports, prompt, api-call to bedrock using boto3)
-   
+7. Run file:
+   $ python llama2.py   
