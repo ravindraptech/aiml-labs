@@ -32,3 +32,6 @@ C4. Run file:
    $ python sd-demo.py
 
 Similar to this try other models.
+
+
+ref: https://github.com/krishnaik06/AWS-Bedrock/
