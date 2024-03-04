@@ -22,3 +22,13 @@ C2. copy API request from example and create new file test.json and paste inside
 C3. Inside VS Code project dir create new file: claude.py (imports, prompt, api-call to bedrock using boto3)
 C4. Run file:
    $ python ai21.py   
+
+
+Example-3: Stability-ai Stable diffusion
+C1. Amazon Bedrock > Examples > Stability-ai Stable diffusion
+C2. copy API request from example and create new file test.json and paste inside it
+C3. Inside VS Code project dir create new file: sd-demo.py (imports, prompt, api-call to bedrock using boto3)
+C4. Run file:
+   $ python sd-demo.py  
+
+Similar to this try other models.
