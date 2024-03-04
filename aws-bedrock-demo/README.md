@@ -14,14 +14,14 @@ L1. Amazon Bedrock > Examples > Llama2 Chat 70B - Chain of thoughts
 L2. copy API request from example and create new file test.json and paste inside it
 L3. Inside VS Code project dir create new file: llama2.py (imports, prompt, api-call to bedrock using boto3)
 L4. Run file:
-   $ python llama2.py   
+   $ python llama2.py
 
 Example-2: AI21 J2
 C1. Amazon Bedrock > Examples > AI21 J2 mid v1
 C2. copy API request from example and create new file test.json and paste inside it
 C3. Inside VS Code project dir create new file: claude.py (imports, prompt, api-call to bedrock using boto3)
 C4. Run file:
-   $ python ai21.py   
+   $ python ai21.py
 
 
 Example-3: Stability-ai Stable diffusion
@@ -29,6 +29,6 @@ C1. Amazon Bedrock > Examples > Stability-ai Stable diffusion
 C2. copy API request from example and create new file test.json and paste inside it
 C3. Inside VS Code project dir create new file: sd-demo.py (imports, prompt, api-call to bedrock using boto3)
 C4. Run file:
-   $ python sd-demo.py  
+   $ python sd-demo.py
 
 Similar to this try other models.
