@@ -8,3 +8,5 @@ nlp-chatbot-conversational.ipynb
 
 
 
+
+ref: https://learn.deeplearning.ai/courses/open-source-models-hugging-face
