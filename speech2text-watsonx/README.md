@@ -18,14 +18,16 @@ pip install transformers==4.35.2 torch==2.1.1 gradio==4.17.0 langchain==0.0.343 
 sudo apt update
 sudo apt install ffmpeg -y
 
-
-1. Run download_audio.py
+### example exercises
+> Download_audio.py
    python3 download_audio.py
-   
-2. Run simple_speech2text.py
+> Run simple_speech2text.py
    python3 simple_speech2text.py
+> Use Gradio to create interface for app
 
-3. Use Gradio to create interface for app
+## Steps to build app:
+1. Creating audio transcription app: speech2text_app.py
+2. Integrating LLM: Using LLAMA2 in watsonx as LLM
 
    
 
