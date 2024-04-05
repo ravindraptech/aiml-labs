@@ -28,7 +28,9 @@ sudo apt install ffmpeg -y
 ## Steps to build app:
 1. Creating audio transcription app: speech2text_app.py
 2. Integrating LLM: Using LLAMA2 in watsonx as LLM
-
+   sample: python3 simple_llm.py
+   for other platform/models: simple_llm_hf.py
+4. speech analyzer: speech_analyzer.py
    
 
 Ref: https://labs.cognitiveclass.ai
