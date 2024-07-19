@@ -20,4 +20,5 @@ python query_data.py "How does Alice meet the Mad Hatter?"
 
 You'll also need to set up an OpenAI account (and set the OpenAI key in your environment variable) for this to work.
 
+
 ref: https://github.com/pixegami/langchain-rag-tutorial
