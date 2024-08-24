@@ -1,2 +1,2 @@
 # aiml-labs
-AI ML GenAI LLMs labs
+AI ML GenAI LLMs labs.
