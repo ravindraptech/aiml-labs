@@ -31,6 +31,7 @@ sudo apt install ffmpeg -y
    sample: python3 simple_llm.py
    for other platform/models: simple_llm_hf.py
 4. speech analyzer: speech_analyzer.py
+   .
    
 
 Ref: https://labs.cognitiveclass.ai
